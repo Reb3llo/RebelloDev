@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello World! Aqui é o Rebello
 
-<!--
-**RebelloDev/RebelloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+    <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
+<div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <div style="display: inline_block">
+        <img align="left" height="250" alt="hacker" src="Hacker.gif">    
+        <h1 align="center" style="color: #d69a3a">Top Skills</h1>
+        <img align="center" heigth="10" hspace="5" width="80" alt="Bash" src="Bash-Dark.svg">
+        <img align="center" heigth="10" hspace="5" width="80" alt="Linux" src="Linux-Dark.svg">
+        <img align="center" heigth= "10" hspace="5" width="80" alt='HTML' src="HTML.svg">
+        <img align="center" heigth='10' hspace="5" width="80" alt='CSS' src="CSS.svg">
+        <img align="center" heigth="10" hspace="5" width="80" alt="Python" src="Python-Dark.svg">
+    </div>
+</div>
