@@ -18,4 +18,5 @@
         <img align="center" heigth="10" hspace="5" width="80" alt="Python" src="Python-Dark.svg">
     </div>
 </div>
+    
 ![snake gif](https://github.com/Reb3llo/Reb3llo/blob/output/github-contribution-grid-snake.svg)
