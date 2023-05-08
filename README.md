@@ -1,22 +1,17 @@
-<h1 align="center"> Hello World! Aqui é o Rebello </h1>
+<h1 align="center" style="font-family: Sans-serif"> Hello World! I'm Gabriel Rebello✌️ </h1>
 
-<div align="center" style="display: inline_block">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
-     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
+<div style="display: block" align="Center">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Reb3llo&theme=codeSTACKr&show_icons=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reb3llo&theme=codeSTACKr&show_icons=true"/>
 <div>
 
 <br>
 
-<div align="center">
-    <div style="display: inline_block">
-        <img align="left" height="250" alt="hacker" src="Hacker.gif">    
-        <h1 align="center" style="color: #d69a3a">Top Skills</h1>
-        <img align="center" heigth="10" hspace="5" width="80" alt="Bash" src="Bash-Dark.svg">
-        <img align="center" heigth="10" hspace="5" width="80" alt="Linux" src="Linux-Dark.svg">
-        <img align="center" heigth= "10" hspace="5" width="80" alt='HTML' src="HTML.svg">
-        <img align="center" heigth='10' hspace="5" width="80" alt='CSS' src="CSS.svg">
-        <img align="center" heigth="10" hspace="5" width="80" alt="Python" src="Python-Dark.svg">
+<div align="Center">
+    <div style="display: flex-box">
+        <h1 align="center" style="font-family: Sans-serif">|Top Skills|</h1>
+        <img width="250px" src="https://skillicons.dev/icons?i=bash,css,html,linux,py,php&theme=light&perline=3" />
     </div>
 </div>
-    
+
 ![snake gif](https://github.com/Reb3llo/Reb3llo/blob/output/github-contribution-grid-snake.svg)
