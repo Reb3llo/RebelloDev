@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World! Aqui é o Rebello </h1>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
 <div>
