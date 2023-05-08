@@ -2,6 +2,7 @@
 
 <div style="display: inline_block">
     <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Reb3llo&theme=gruvbox_light&show_icons=true"/>
+    ![Snake animation](https://github.com/Reb3llo/Reb3llo/blob/output/github-contribution-grid-snake.svg)
 <div>
 
 <br>
